@@ -3,7 +3,7 @@
 <a href="https://github.com/vvarl0cks/TW-NFT-TradingCard"><img src="https://iili.io/H4yl4zx.png" alt="warlocks GitHub" border="0" /></a>   
 <a href="https://github.com/vvarl0cks/TW-NFT-TradingCard"><img src="https://iili.io/Hi1WuDl.png" alt="warlocks GitHub" border="0" /></a>    
 <a href="https://github.com/vvarl0cks/TW-NFT-TradingCard"><img src="https://iili.io/Hi1avRI.png" alt="warlocks GitHub" border="0" /></a>   
-<a href="https://github.com/vvarl0cks/TW-NFT-TradingCard"><img src="https://iili.io/Hi1akHN.png" alt="warlocks GitHub" border="0" /></a>   
+<a href="https://github.com/vvarl0cks/TW-NFT-TradingCard"><img src="https://iili.io/Hi1juDv.png" alt="warlocks GitHub" border="0" /></a>   
 
 Create trading card NFTs and how to bundle them in pack NFTs. We will create an app that allows users to purchase a pack, open a pack to get card NFTs, and a marketplace where you can buy and sell cards.
 
