@@ -7,6 +7,9 @@
 
 Create trading card NFTs and how to bundle them in pack NFTs. We will create an app that allows users to purchase a pack, open a pack to get card NFTs, and a marketplace where you can buy and sell cards.
 
+## 🌎 Demo https://warlocks-nft-tradingcard.netlify.app   
+i'm using netlify.   
+
 ## ⛓ Deployed on Mumbai Testnet (https://thirdweb.com/mumbai)
 
 RPC URL: mumbai.rpc.thirdweb.com  
